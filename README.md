@@ -1,2 +1,2 @@
 # Discord Bot
-## Bot em desenvolimento!
+## Bot em desenvolvimento!
